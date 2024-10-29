@@ -1,0 +1,14 @@
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\bin\Debug\net8.0\DesignPatterns.Adapter.Example.exe
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\bin\Debug\net8.0\DesignPatterns.Adapter.Example.deps.json
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\bin\Debug\net8.0\DesignPatterns.Adapter.Example.runtimeconfig.json
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\bin\Debug\net8.0\DesignPatterns.Adapter.Example.dll
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\bin\Debug\net8.0\DesignPatterns.Adapter.Example.pdb
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\DesignPatterns.Adapter.Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\DesignPatterns.Adapter.Example.AssemblyInfoInputs.cache
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\DesignPatterns.Adapter.Example.AssemblyInfo.cs
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\DesignPatterns.Adapter.Example.csproj.CoreCompileInputs.cache
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\DesignPatterns.Adapter.Example.dll
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\refint\DesignPatterns.Adapter.Example.dll
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\DesignPatterns.Adapter.Example.pdb
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\DesignPatterns.Adapter.Example.genruntimeconfig.cache
+D:\1. Hoc Tap\1. UIT\year4 (2024-2025)\term7\SE310.P11 (Cong nghe .NET)\theory\09 Seminar\DesignPatterns.Example\DesignPatterns.Adapter.Example\obj\Debug\net8.0\ref\DesignPatterns.Adapter.Example.dll
