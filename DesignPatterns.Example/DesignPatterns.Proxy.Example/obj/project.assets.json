@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Proxy.Example\\DesignPatterns.Proxy.Example.csproj",
+      "projectUniqueName": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Proxy.Example\\DesignPatterns.Proxy.Example.csproj",
       "projectName": "DesignPatterns.Proxy.Example",
-      "projectPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Proxy.Example\\DesignPatterns.Proxy.Example.csproj",
+      "projectPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Proxy.Example\\DesignPatterns.Proxy.Example.csproj",
       "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Proxy.Example\\obj\\",
+      "outputPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Proxy.Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",

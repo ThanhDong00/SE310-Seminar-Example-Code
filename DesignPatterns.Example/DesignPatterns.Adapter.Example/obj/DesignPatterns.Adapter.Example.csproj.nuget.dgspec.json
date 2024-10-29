@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj": {}
+    "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj": {}
   },
   "projects": {
-    "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj": {
+    "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj",
+        "projectUniqueName": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj",
         "projectName": "DesignPatterns.Adapter.Example",
-        "projectPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj",
+        "projectPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\DesignPatterns.Adapter.Example.csproj",
         "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-        "outputPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\obj\\",
+        "outputPath": "D:\\1. Hoc Tap\\1. UIT\\year4 (2024-2025)\\term7\\SE310.P11 (Cong nghe .NET)\\theory\\09 Seminar\\New folder\\DesignPatterns.Example\\DesignPatterns.Adapter.Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
